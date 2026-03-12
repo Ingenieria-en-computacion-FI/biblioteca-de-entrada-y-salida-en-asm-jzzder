@@ -1,1 +1,0 @@
-![resultado](resultadoo.png)
