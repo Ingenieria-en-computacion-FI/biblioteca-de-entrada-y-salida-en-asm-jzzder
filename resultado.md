@@ -1,1 +1,1 @@
-![resultado](test/resultadoo.png)
+![resultado](resultadoo.png)
