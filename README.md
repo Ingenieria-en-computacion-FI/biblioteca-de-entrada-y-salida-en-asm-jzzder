@@ -34,3 +34,4 @@ ld -m elf_i386 scan_int.o print_int.o scan_char.o print_char.o print_string.o sc
 ## Ejecutar
 
 ./program
+
